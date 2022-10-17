@@ -28,7 +28,7 @@ st.header("Dataset")
 
 st.subheader("Berikut ini beberapa data disajikan dalam bentuk tabel")
 
-df = pd.read_excel("data_capstone_project.xlsx")
+df = pd.read_excel("https://docs.google.com/spreadsheets/d/e/2PACX-1vQWWTMl8xYI_Ket7jIEr_C9UP0b7haqRH8CjLh5QKELHdRBmCHnWUjXp0mkkwZqxw/pub?output=xlsx")
 st.dataframe(df)
 
 st.write("Dalam tabel tersebut, belum terdapat kolom persentase jumlah pengguna aktif media sosial "
