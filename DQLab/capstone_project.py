@@ -428,7 +428,7 @@ st.write("1. Rata-rata dari masing-masing durasi membaca, durasi penggunaan medi
          "381.69 menit, 1018.15 menit, dan 76.76%")
 st.write("2. Negara yang memiliki durasi membaca, durasi penggunaan media sosial, dan persentase jumlah pengguna aktif media sosial di atas angka rata-rata dari ketiga parameter, "
          "yaitu Saudi Arabia, Filipina, dan Thailand")
-st.write("3. Variabel durasi membaca dengan persentase jumlah pengguna aktif media sosial memiliki hubungan yang signifikan dengan besar korelasi (hubungan) 0.56 yang artinya hubungan hubungan persentase jumlah pengguna aktif media sosial dengan durasi membaca buku sebesar 56% sisanya dipengaruhi oleh variabel lain "
+st.write("3. Variabel durasi membaca dengan persentase jumlah pengguna aktif media sosial memiliki hubungan yang signifikan dengan besar korelasi (hubungan) 0.56 yang artinya hubungan persentase jumlah pengguna aktif media sosial dengan durasi membaca buku sebesar 56% sisanya dipengaruhi oleh variabel lain "
          "dan berkorelasi negatif, artinya semakin berkurang pengguna aktif media sosial, maka semakin lama durasi seseorang untuk menghabiskan waktunya dalam membaca buku. Sebaliknya, semakin meningkat pengguna aktif media sosial, maka semakin sedikit durasi membacanya.")
 st.write("4. Variabel durasi membaca buku dan durasi penggunaan media sosial memiliki hubungan yang tidak signifikan.")
 
