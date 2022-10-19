@@ -10,6 +10,8 @@ st.set_page_config(layout = "wide")
 
 st.title("Apakah Kecenderungan Membaca Bergantung pada Penggunaan Media Sosial?")
 
+st.write("by Nurul Fadilah Syahrul")
+
 st.header("Pendahuluan")
 
 st.write("Menurut data dari Digital 2022, "
