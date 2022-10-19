@@ -8,7 +8,7 @@ import openpyxl
 
 st.set_page_config(layout = "wide")
 
-st.title("Apakah Kecenderungan Membaca Berhubungan pada Penggunaan Media Sosial?")
+st.title("Apakah Kecenderungan Membaca Bergantung pada Penggunaan Media Sosial?")
 
 st.header("Pendahuluan")
 
